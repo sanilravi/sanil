@@ -7,8 +7,7 @@
 	"meta": [
 		{ "type": "id", "index": 0, "name": "Proband" },
 		{ "type": "float", "index": 1, "name": "Hb F" },
-		 }
-	],
+		],
 	"sets": [
 		{ "format": "binary", "start": 2, "end": 18 }
 	]
