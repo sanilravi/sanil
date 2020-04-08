@@ -4,7 +4,8 @@
 	"header": 0,
 	"separator": ";",
 	"skip": 0,
-	"meta": [
+	"meta": {
+		[
 		{ "type": "id", "index": 0, "name": "Proband" },
 		{ "type": "float", "index": 1, "name": "Hb F" },
 		],
