@@ -1,6 +1,6 @@
 {
-	"file": "http://vcg.github.io/upset/data/test/test.csv",
-	"name": "Test",
+	"file": "https://github.com/sanilravi/sanil/blob/master/archananew.csv",
+	"name": "Genetic Analysis",
 	"header": 0,
 	"separator": ";",
 	"skip": 0,
