@@ -2,7 +2,7 @@
 	"file": "https://github.com/sanilravi/sanil/blob/master/archananew.csv",
 	"name": "Genetic Analysis",
 	"header": 0,
-	"separator": ";",
+	"separator": ",",
 	"skip": 0,
 	"meta": [
 		{ "type": "id", "index": 0, "name": "Allele" }
