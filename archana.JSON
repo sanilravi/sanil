@@ -1,15 +1,13 @@
 {
-	"file": "https://github.com/sanilravi/sanil/blob/master/archana.csv",
-	"name": "Genetic Analysis ",
+	"file": "http://vcg.github.io/upset/data/test/test.csv",
+	"name": "Test",
 	"header": 0,
-	"separator": ",",
+	"separator": ";",
 	"skip": 0,
 	"meta": [
-		{ "type": "id", "index": 0, "name": "Proband" },
-		{ "type": "float", "index": 1, "name": "Hb F" },
-		
-		],
+		{ "type": "id", "index": 0, "name": "Allele" }
+	],
 	"sets": [
-		{ "format": "binary", "start": 2, "end": 18 }
+		{ "format": "binary", "start": 1, "end": 3 }
 	]
 }
