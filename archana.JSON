@@ -7,6 +7,7 @@
 	"meta": [
 		{ "type": "id", "index": 0, "name": "Proband" },
 		{ "type": "float", "index": 1, "name": "Hb F" },
+		{ "type": "float", "index": 37, "name": "LCR-4 _G" },
 		],
 	"sets": [
 		{ "format": "binary", "start": 2, "end": 18 }
